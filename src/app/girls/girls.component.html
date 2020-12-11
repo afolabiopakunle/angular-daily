@@ -1,0 +1,11 @@
+<h2>Girls Page</h2>
+<ul>
+    <li *ngFor="let girl of girls">
+        <p>{{ girl.id }} - {{girl.title}}</p>
+        <p>{{girl.body }}</p>
+    </li>
+</ul>
+
+<button (click)="contactsService.printer()">Print</button>
+
+<a [routerLink]="[ '/contacts' ]">name</a>

@@ -1,0 +1,33 @@
+{
+    "posts": [
+        {"id": 1, "title": "New Story", "Author": "Dele Momodu"}
+    ],
+    "comment": [
+        {"id": 1, "body": "Original comments for Dele", "postId": 1 }
+    ],
+    "profile": {"name": "typicode"},
+    "others details": {"details": "Nothing for now"},
+    "contacts": [
+        {
+            "id": 1,
+            "firstName":"New Story",
+            "lastName": "Dele Momodu"
+        },
+        {
+            "id": 2,
+            "firstName":"Old Story",
+            "lastName": "Shade Momodu"
+        },
+        {
+            "id": 3,
+            "firstName":"Rare Story",
+            "lastName": "Tunde Afolabi"
+        },
+
+        {
+            "id": 4,
+            "firstName":"Short Story",
+            "lastName": "Kunle Afolabi"
+        }
+    ]
+}

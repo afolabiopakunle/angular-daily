@@ -1,0 +1,14 @@
+.online {
+    color: lime
+}
+.checking {
+    color: yellow
+}
+
+.re-checking {
+    color: orange;
+}
+
+.waiting {
+    color: navy
+}
